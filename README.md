@@ -57,14 +57,7 @@ AI/LLMs       Llama-3 · Gemini · RAG · n8n · LangChain
 Tools         Git · Tableau · MySQL · MongoDB · Postman · Jupyter
 ```
 
----
 
-## 📊 GitHub Stats
-
-![Jasin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasin263&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasin263&layout=compact&theme=github_dark&hide_border=true)
-
----
 
 ## 📜 Publication
 
