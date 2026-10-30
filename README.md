@@ -30,8 +30,10 @@
 
 | Role | Company | Period |
 |------|---------|--------|
+| 🤖 Data Science Intern | Sedin Technologies | July–Present 2026 |
 | 🤖 Data Science Intern | National Institute of Technology (NIT) | Jun–Aug 2025 |
 | 👨‍💻 Web Development Intern | B2E Technologies | Apr–Jun 2025 |
+
 
 ---
 
